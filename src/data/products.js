@@ -1,0 +1,17 @@
+export const products = [
+  { id: 1,  name: "Wireless Earbuds Pro",         price: 99.99  },
+  { id: 2,  name: "SmartWatch Elite",              price: 199.99 },
+  { id: 3,  name: "Premium Bluetooth Speaker",     price: 79.99  },
+  { id: 4,  name: "Ergonomic Laptop Stand",        price: 29.99  },
+  { id: 5,  name: "Mechanical Gaming Keyboard",    price: 129.99 },
+  { id: 6,  name: "4K Webcam Ultra",               price: 89.99  },
+  { id: 7,  name: "Noise Cancelling Headphones",   price: 249.99 },
+  { id: 8,  name: "USB-C Hub 7-in-1",              price: 49.99  },
+  { id: 9,  name: "Portable SSD 1TB",              price: 109.99 },
+  { id: 10, name: "RGB Gaming Mouse",              price: 59.99  },
+  { id: 11, name: "Dual Monitor Arm",              price: 74.99  },
+  { id: 12, name: "Smart LED Desk Lamp",           price: 39.99  },
+  { id: 13, name: "Wireless Charging Pad",         price: 34.99  },
+  { id: 14, name: "Mini Projector 1080p",          price: 299.99 },
+  { id: 15, name: "Foldable Drone with Camera",    price: 189.99 },
+];
