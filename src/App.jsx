@@ -14,7 +14,11 @@ function App() {
         </div>
 
         <header>
-          <h1>Shopping Cart</h1>
+          <h1><span className="logo">Hook</span>Cart</h1>
+
+          <p className="light-green-text">
+            Custom hooks. Clean cart
+          </p>
         </header>
         <main className="products">
           <section>
